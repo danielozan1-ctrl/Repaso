@@ -1,0 +1,11 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PWA para organizar el estudio con repaso espaciado y ritmo real medido",
+  "scripts": {
+    "start": "node tools/servidor.mjs",
+    "test": "node --test tests/*.test.js"
+  }
+}
